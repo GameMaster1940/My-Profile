@@ -8,6 +8,12 @@
 - Email Address: S3858813@student.rmit.edu.au  
 - Background information: I was born on the 9th of November 1999 in Melbourne Australia. In January 2009 I moved to India for 2.5 years for my dad’s work (He is a banker for ANZ). Whilst in India I got to travel around the world. I first went to Paris in 2009, then to London in 2010 then London again in 2011 for a cruise around the Mediterranean Sea where I got to visit Gibraltar, France, Spain and Portugal. I then moved back to Australia later that same year. In August 2013, about 2 years after getting back from India, I moved down to South Gippsland where I currently live. In 2019 I finished Year 12 then in March 2020 I started my Bachelor of Information Technology.
 
+### Interest in IT
+
+- Interest in IT: My main interest in IT revolves around studying and working with the latest technology. Given my various disabilities, I have always been interested in robotics, self-driving cars and other such technology that will allow me to lead a more independent life.
+- Why did I choose to come to RMIT: The reason I chose to come to RMIT was because it offered the best course options regarding IT. A qualification in this degree will give me a broader range of job opportunities.
+- What did I expect to learn from my studies: From my studies I was mainly hoping to obtain broad spectrum skills around IT, more specifically learning skills that revolve around all different areas of programming.
+
 
 ### Markdown
 
