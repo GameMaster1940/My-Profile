@@ -14,6 +14,35 @@
 - Why did I choose to come to RMIT: The reason I chose to come to RMIT was because it offered the best course options regarding IT. A qualification in this degree will give me a broader range of job opportunities.
 - What did I expect to learn from my studies: From my studies I was mainly hoping to obtain broad spectrum skills around IT, more specifically learning skills that revolve around all different areas of programming.
 
+### Ideal Job:
+
+Links: https://www.glassdoor.com.au/Job/sydney-software-engineer-jobs-SRCH_IL.0,6_IC2235932_KO7,24.htm?rdserp=true&jl=3490750540&guid=00000170c1d64f4a9e191bd4eacf355a&pos=101&src=GD_JOB_AD&srs=EI_JOBS&s=21&ao=37049       
+https://careers.google.com/jobs/results/128706410675348166-software-engineer/?src=Online%2FJob%20Board%2Fglassdoor&utm_campaign=freeaggr&utm_medium=jobaggr&utm_source=glassdoor 
+
+Screenshots:                               
+  
+Position: 
+- The job on offer is a job as a Software Engineer at Google. This job requires you to develop software for the company and it will see you work with Google’s next generation software and hardware. I have always wanted to work at Google, and with an aspiration to be a software developer, this job is highly appealing to me. This position also comes with a good salary of approximately $109,368 AUD per year.
+
+Minimum Qualifications: 
+- The minimum qualification requried for the job is a Bachalor’s degree in Computer Science or related degrees, or similar level of past experience. 
+- 4 years of work experience in software development.
+- Experience and knowledge with C, C++, Java or Python.
+
+Prefered Qualifications: 
+- The prefered qualification for the job is a Master’s degree or PhD in computer science or related degrees, or similar level of past experience.
+- Experience in two or more main stream programming languages such as C, C++, Java etc.
+- Strong interest in programming.
+- Excellent writtern and verbal communication skills.
+ 
+Current Qualifications: Currently 
+- I do not meet any of the qualifications required for the job.
+
+Plan on how I will obtain the required qualifications: 
+- To reach all the required qualifications, my plan is to first complete my Bachelor’s degree including all the minor studies with a GPA of at least 2.0 out of 4.0. Upon completion of my Bachelor’s degree, I aim to study my Master's Degree in Computer Science on a part time basis whilst working in an IT position at the same time. This will enable me to get the 4 years work expereience required for the position. Once I have at least 4 years of work experience in a position in the field and have completed the Master’s degree, I will then have met the qualifcations I feel are necessary for the job.
+https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc061 
+
+
 
 ### Markdown
 
