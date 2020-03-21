@@ -56,10 +56,10 @@ Myers-Briggs test results: ISTJ-A (Logistician)
 - Nature: Thinking (61%)
 - Tactics: Judging (65%)
 - Identity: Assertive (54%)
-- https://www.16personalities.com/free-personality-test
+- [www.16personalities.com](https://www.16personalities.com/free-personality-test)
 
 Learning Style Assessment: Visual
-- https://www.how-to-study.com/learning-style-assessment/
+- [www.how-to-study.com](https://www.how-to-study.com/learning-style-assessment/)
 
 Career Quiz: 
 - Administrative: 86%
@@ -68,7 +68,7 @@ Career Quiz:
 - Enterprising: 0%
 - Helping: 0%
 - Practical: 0%
-- https://joboutlook.gov.au/CareerQuiz
+- [joboutlook.gov.au](https://joboutlook.gov.au/CareerQuiz)
 
 What do the results of these tests mean for you? Even though I am shy I am observant and a deep thinker. I prefer facts to opinions and will not hesitate to speak up when necessary. I need to be careful to respect other people’s opinions.
 
