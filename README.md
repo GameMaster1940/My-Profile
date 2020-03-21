@@ -22,7 +22,7 @@ Links:
 - [https://careers.google.com](https://careers.google.com/jobs/results/128706410675348166-software-engineer/?src=Online%2FJob%20Board%2Fglassdoor&utm_campaign=freeaggr&utm_medium=jobaggr&utm_source=glassdoor)
 
 Screenshots:                               
-- ![](https://github.com/GameMaster1940/My-Profile/blob/master/1.png)
+- ![](https://user-images.githubusercontent.com/34468455/77223995-93bb4e00-6bb5-11ea-8e05-ee235d7fee3f.png)
 - ![](https://github.com/GameMaster1940/My-Profile/blob/master/2.png)
 - ![](https://github.com/GameMaster1940/My-Profile/blob/master/3.png)
 - ![](https://github.com/GameMaster1940/My-Profile/blob/master/4.png)
