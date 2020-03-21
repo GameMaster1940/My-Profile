@@ -7,7 +7,7 @@
 - Student Number: s3858813
 - Email Address: S3858813@student.rmit.edu.au  
 - Background information: I was born on the 9th of November 1999 in Melbourne Australia. In January 2009 I moved to India for 2.5 years for my dad’s work (He is a banker for ANZ). Whilst in India I got to travel around the world. I first went to Paris in 2009, then to London in 2010 then London again in 2011 for a cruise around the Mediterranean Sea where I got to visit Gibraltar, France, Spain and Portugal. I then moved back to Australia later that same year. In August 2013, about 2 years after getting back from India, I moved down to South Gippsland where I currently live. In 2019 I finished Year 12 then in March 2020 I started my Bachelor of Information Technology.
-- ![Image](https://github.com/GameMaster1940/My-Profile/blob/master/profile.jpg)
+- ![](https://github.com/GameMaster1940/My-Profile/blob/master/profile.jpg)
 
 ### Interest in IT:
 
@@ -22,10 +22,10 @@ Links:
 - [https://careers.google.com](https://careers.google.com/jobs/results/128706410675348166-software-engineer/?src=Online%2FJob%20Board%2Fglassdoor&utm_campaign=freeaggr&utm_medium=jobaggr&utm_source=glassdoor)
 
 Screenshots:                               
-- ![image](https://github.com/GameMaster1940/My-Profile/blob/master/1.png)
-- ![image](https://github.com/GameMaster1940/My-Profile/blob/master/2.png)
-- ![image](https://github.com/GameMaster1940/My-Profile/blob/master/3.png)
-- ![image](https://github.com/GameMaster1940/My-Profile/blob/master/4.png)
+- ![](https://github.com/GameMaster1940/My-Profile/blob/master/1.png)
+- ![](https://github.com/GameMaster1940/My-Profile/blob/master/2.png)
+- ![](https://github.com/GameMaster1940/My-Profile/blob/master/3.png)
+- ![](https://github.com/GameMaster1940/My-Profile/blob/master/4.png)
 
 Position: 
 - The job on offer is a job as a Software Engineer at Google. This job requires you to develop software for the company and it will see you work with Google’s next generation software and hardware. I have always wanted to work at Google, and with an aspiration to be a software developer, this job is highly appealing to me. This position also comes with a good salary of approximately $109,368 AUD per year.
