@@ -2,11 +2,11 @@
 
 ### Personal Infomation:
 
-Name: Jack Wilson
-DOB: 9/11/1999
-Student Number: s3858813
-Email Address: S3858813@student.rmit.edu.au  
-Background information: I was born on the 9th of November 1999 in Melbourne Australia. In January 2009 I moved to India for 2.5 years for my dad’s work (He is a banker for ANZ). Whilst in India I got to travel around the world. I first went to Paris in 2009, then to London in 2010 then London again in 2011 for a cruise around the Mediterranean Sea where I got to visit Gibraltar, France, Spain and Portugal. I then moved back to Australia later that same year. In August 2013, about 2 years after getting back from India, I moved down to South Gippsland where I currently live. In 2019 I finished Year 12 then in March 2020 I started my Bachelor of Information Technology.
+- Name: Jack Wilson
+- DOB: 9/11/1999
+- Student Number: s3858813
+- Email Address: S3858813@student.rmit.edu.au  
+- Background information: I was born on the 9th of November 1999 in Melbourne Australia. In January 2009 I moved to India for 2.5 years for my dad’s work (He is a banker for ANZ). Whilst in India I got to travel around the world. I first went to Paris in 2009, then to London in 2010 then London again in 2011 for a cruise around the Mediterranean Sea where I got to visit Gibraltar, France, Spain and Portugal. I then moved back to Australia later that same year. In August 2013, about 2 years after getting back from India, I moved down to South Gippsland where I currently live. In 2019 I finished Year 12 then in March 2020 I started my Bachelor of Information Technology.
 
 
 ### Markdown
