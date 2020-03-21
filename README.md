@@ -24,7 +24,7 @@ Links:
 Screenshots:                               
 - ![](https://user-images.githubusercontent.com/34468455/77223995-93bb4e00-6bb5-11ea-8e05-ee235d7fee3f.png)
 - ![](https://user-images.githubusercontent.com/34468455/77224013-b51c3a00-6bb5-11ea-84b0-c3b5f77d6f77.png)
-- ![](https://github.com/GameMaster1940/My-Profile/blob/master/3.png)
+- ![](https://user-images.githubusercontent.com/34468455/77224029-da10ad00-6bb5-11ea-96b2-016bbda298c2.png)
 - ![](https://github.com/GameMaster1940/My-Profile/blob/master/4.png)
 
 Position: 
