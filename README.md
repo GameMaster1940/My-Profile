@@ -25,7 +25,7 @@ Screenshots:
 - ![](https://user-images.githubusercontent.com/34468455/77223995-93bb4e00-6bb5-11ea-8e05-ee235d7fee3f.png)
 - ![](https://user-images.githubusercontent.com/34468455/77224013-b51c3a00-6bb5-11ea-84b0-c3b5f77d6f77.png)
 - ![](https://user-images.githubusercontent.com/34468455/77224029-da10ad00-6bb5-11ea-96b2-016bbda298c2.png)
-- ![](https://github.com/GameMaster1940/My-Profile/blob/master/4.png)
+- ![](https://user-images.githubusercontent.com/34468455/77224040-f90f3f00-6bb5-11ea-9076-66f175b6385b.png)
 
 Position: 
 - The job on offer is a job as a Software Engineer at Google. This job requires you to develop software for the company and it will see you work with Google’s next generation software and hardware. I have always wanted to work at Google, and with an aspiration to be a software developer, this job is highly appealing to me. This position also comes with a good salary of approximately $109,368 AUD per year.
