@@ -48,6 +48,34 @@ Plan on how I will obtain the required qualifications:
 - To reach all the required qualifications, my plan is to first complete my Bachelor’s degree including all the minor studies with a GPA of at least 2.0 out of 4.0. Upon completion of my Bachelor’s degree, I aim to study my Master's Degree in Computer Science on a part time basis whilst working in an IT position at the same time. This will enable me to get the 4 years work expereience required for the position. Once I have at least 4 years of work experience in a position in the field and have completed the Master’s degree, I will then have met the qualifcations I feel are necessary for the job. 
 - [www.rmit.edu.au](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc061)
 
+### Profile:
+
+Myers-Briggs test results: ISTJ-A (Logistician)
+- Mind: Introverted (75%)
+- Energy: Observant (61%)
+- Nature: Thinking (61%)
+- Tactics: Judging (65%)
+- Identity: Assertive (54%)
+- https://www.16personalities.com/free-personality-test
+
+Learning Style Assessment: Visual
+- https://www.how-to-study.com/learning-style-assessment/
+
+Career Quiz: 
+- Administrative: 86%
+- Analytical: 13%
+- Creative: 0%
+- Enterprising: 0%
+- Helping: 0%
+- Practical: 0%
+- https://joboutlook.gov.au/CareerQuiz
+
+What do the results of these tests mean for you? Even though I am shy I am observant and a deep thinker. I prefer facts to opinions and will not hesitate to speak up when necessary. I need to be careful to respect other people’s opinions.
+
+How do you think these results may influence your behaviour in a team? In a team I would be a good researcher because I prefer facts to opinions. I am good at administrative tasks. I am very visual and a good observer. Whilst I am shy, I will speak up when I feel it’s necessary.
+
+How should you take this into account when forming a team? I must be careful not to be too judgemental of other people’s opinion. Potentially, I would work best in a team whose members rely on facts rather than opinion. 
+
 
 
 ### Markdown
